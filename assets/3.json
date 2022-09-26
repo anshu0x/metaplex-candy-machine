@@ -1,0 +1,41 @@
+{
+  "name": "Axies NFT",
+  "symbol": "AXIOS",
+  "description": "Celebratory Axies NFT for the Axies X launch",
+  "seller_fee_basis_points":150,
+  "image": "image.png",
+  "animation_url": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
+    }
+  ],
+  "collection": {
+     "name": "Axies X NFT",
+     "family": "Axies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      } ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "89QDqpckp5wLj1nPKE6iPgtkzJRyEWKqDx1beXeD1spD",
+        "share": 100
+      }
+    ]
+  }
+}
